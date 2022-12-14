@@ -27,4 +27,4 @@ for (int l=0; l<count; l++)
             Console.Write($", {ResultArray[l]}");
     }
 Console.WriteLine($"]");
-Console.WriteLine(count);
+// Console.WriteLine(count);
